@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialButton</string>
+    <string name="textImageBtn">My button</string>
+    <string name="btnImage">Click the button</string>
+</resources>
